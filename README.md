@@ -143,9 +143,7 @@
 
 - 3-layer Bi-LSTM (128 → 64 → 32 units) trained on 20+ technical indicators over 90-day windows to forecast daily stock prices
 - On-chain Solidity contracts hash and timestamp every BUY/SELL signal, creating a tamper-proof recommendation trail
-- Gemini API integration (multi-key rotation) for market commentary, backtested against 5 years of OHLCV data
-
-> 💡 Add a `🔗 View Repo` / `🚀 Live Demo` link under each project once the repos are public.
+- Gemini API integration (multi-key rotation) for market commentary, backtested against 5 years of OHLCV data. 
 
 ---
 
