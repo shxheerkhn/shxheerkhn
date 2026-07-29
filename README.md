@@ -21,6 +21,7 @@
 - 🎓 Studying @ FAST-NUCES, Karachi
 - 🌱 Genuinely enthusiastic about **AI/ML, Data Science, and Data Engineering** — actively learning and building real projects in these areas
 - 🧪 **Data Science Intern @ 10Pearls** — built end-to-end AQI forecasting pipelines (FastAPI + Streamlit + SHAP)
+- 🧪 **Artificial Intelligence Intern @ Spiral Labs**
 - ⚙️ **Backend Intern @ Nexium** — FastAPI/Pydantic REST APIs, query optimization & Postman regression testing
 - ⛓️ Exploring **blockchain-verified ML systems** and decentralized applications
 - 📍 Karachi, Pakistan
